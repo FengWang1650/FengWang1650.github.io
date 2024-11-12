@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Feng Wang"
 title_separator          : "-"
 name                     : &name "Feng Wang"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "fengwang1650/fengwang1650.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Feng Wang"
+  name             : "Feng Wang(王风)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "一定要开心好吗"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Northeastern University"
   uri              : 'https://fengwang1650.github.io/'
   email            : "none@example.org" 
 
