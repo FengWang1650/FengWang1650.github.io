@@ -27,7 +27,7 @@ author:
   bio              : "一定要开心好吗"
   location         : "Shenzhen, Guangdong(广东深圳)"
   employer         : "Northeastern University"
-  uri              : 'https://fengwang1650.github.io/'
+  uri              : ##'https://fengwang1650.github.io/'
   email            : "20225922@stu.neu.edu.cn" 
 
   # Academic websites
